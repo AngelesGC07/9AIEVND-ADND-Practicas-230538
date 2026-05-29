@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # 9AIEVND-ADND-Practicas-230538 
-=======
+
 ![logoTI](./images/Logo_TI.jpeg)
 
 ---
@@ -17,5 +16,3 @@ para tener una mejor organización y agilizar  la revisión de las mismas.
 |---|---|---|---|
 |1.|[Introduccion al uso de Python en el Analisis de Datos](/Practica02/Practica02_230538.ipynb)|37|✅| Revisado|
 
-creando un punto de recuperacion 
->>>>>>> Practica02
